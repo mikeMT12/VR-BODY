@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Hand.cs" />
+    <Compile Include="Assets\Point11.cs" />
     <Compile Include="Assets\Resources\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
     <Compile Include="Assets\Resources\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Resources\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
