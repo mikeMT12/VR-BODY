@@ -1,0 +1,4523 @@
+fileFormatVersion: 2
+guid: 32370dba2723ff74192c5ab12a2546cc
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3217440353842357523
+    second: Armature|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -2070665571641638145
+    second: Armature|Armature|Armature|Dummy001332|Take 001|BaseLayer
+  - first:
+      74: 4127389859068936416
+    second: Armature|Armature|Armature|Dummy00222|Take 001|BaseLayer
+  - first:
+      74: -1511054433872629846
+    second: Armature|Armature|Armature|Dummy00333232|Take 001|BaseLayer
+  - first:
+      74: 3690375057273842217
+    second: Armature|Armature|Armature|Fire_Axe|Take 001|BaseLayer
+  - first:
+      74: 6403187125050523808
+    second: Armature|Armature|Armature|Key|Take 001|BaseLayer
+  - first:
+      74: -1935588841028786145
+    second: Armature|Armature|Armature|Manometr|Take 001|BaseLayer
+  - first:
+      74: -908383347757351795
+    second: Armature|Armature|Armature|mixamorig:HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 5287865256357540603
+    second: Armature|Armature|Armature|mixamorig:LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -6519596462203272002
+    second: Armature|Armature|Armature|mixamorig:LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -939181160402899205
+    second: Armature|Armature|Armature|mixamorig:LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6807831361470397648
+    second: Armature|Armature|Armature|mixamorig:LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3148805050048365659
+    second: Armature|Armature|Armature|mixamorig:LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -6391602531197118141
+    second: Armature|Armature|Armature|mixamorig:LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -916367449113017450
+    second: Armature|Armature|Armature|mixamorig:RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 2535666874306732180
+    second: Armature|Armature|Armature|Remen_balon|Take 001|BaseLayer
+  - first:
+      74: -7352143685689633999
+    second: Armature|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 6587637145278570215
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take 001|B
+  - first:
+      74: -5973142517041003566
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: -6109476063712659580
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -2386366371572333955
+    second: 'Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: -4700189095930802657
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take 001|B
+  - first:
+      74: 8830852572482150095
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take 001|BaseLa
+  - first:
+      74: 6996508017033816580
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take 001|B
+  - first:
+      74: 4105012535660879661
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: -4448858812338895201
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: 3713343153084962994
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: -6345428506780606926
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: -7957235555118412275
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: -5361461074698857058
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 5279321419254891964
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 5124357075672740919
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 2555821275282874313
+    second: Armature|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -1468360983114604670
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: -1151427955118198499
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: 7362792572396819740
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: -2395656733027310127
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: 3487400613675833806
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: -6094111687365619413
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take 001|
+  - first:
+      74: 442325510607297395
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: 4483608057971855103
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: -1137522737973186974
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: 7347224410642111640
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: -7691471737756795372
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: 8918222431107074318
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: 2873469794626882886
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -8831568500548604499
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: 4498043812617835637
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -3662865130256498137
+    second: Armature|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -784795836805463517
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -610885697553377150
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: -4328902719250240675
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: 3196266175638305622
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: -4364335150714552312
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: 7438273082684598601
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: -8518488050639167099
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: -8137620884506799691
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: -4907581717800061029
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -6352702495724831691
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: 6152572953928534318
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: 8416664036384454739
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: -663675051954937484
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: -6967502645922793339
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: 8486015200031156370
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -2886502846448603241
+    second: Armature|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: -6649657384525811443
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -5570190473685863444
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: 6161297369068387106
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: 2096078292781708891
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: 2136428164206229220
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: -5123852760659777273
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take 001|
+  - first:
+      74: -5205653510956758391
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -2482603231339304945
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: 7356105086777088373
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: -6636252030998905387
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -6964384459536550266
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -7840951586623564581
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -1211452049337492828
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 2313900195127962415
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: -7512588268982767464
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: -8476045023946625459
+    second: Armature|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: 3749590992964316064
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: -2103429409984963516
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: 6757903571224996360
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 5042472513876938047
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: -7758113057960001879
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: 6553893016018832521
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take 001|Ba
+  - first:
+      74: -2608898243562821588
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 5845262560820791604
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: -3149575986301295236
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: 5019200136949276030
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: -8747140394139088057
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 6556604826290143670
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -6891042006540571376
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -7323895641151210408
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -1277514958994919839
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 1472089714740004915
+    second: Armature|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 8033509467212169533
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: 5550137970696239055
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: 5071199367363387409
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 3014421782286784810
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: 2276875763740674765
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -8746586675245340778
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take 001|
+  - first:
+      74: 6076192472677390191
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -4314364858700683726
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: -5147374851174044717
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -9028801295758052157
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: 1804233284866953294
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: -6713040341613820353
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: 7955616473536918147
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 3593207670881703974
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: 7001118725976690630
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: -1541448912467813631
+    second: Armature|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: 1607801819879839771
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take 001|B
+  - first:
+      74: 4499009343819054816
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: 1593667898025288659
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: -8535340507787466002
+    second: 'Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: 5234090704269598709
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take 001|B
+  - first:
+      74: -4492480564400626297
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take 001|BaseLa
+  - first:
+      74: 5370922019102211815
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take 001|B
+  - first:
+      74: -8474346693687518194
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: 2115319567354196119
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: 946565943524764830
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: -2222527621392269543
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: 738582795891338902
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 3345164951838879625
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: 7812318460598810461
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: -6435534206444885570
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: -4149592755025363286
+    second: Armature|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: 5078522612835408590
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: -2890539613917796821
+    second: 'Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: 567540299031857502
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -7437705342234368941
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -1818383812230687596
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: 3770868351505101467
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take 001|Base
+  - first:
+      74: -5342662066131789694
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: -7251888776013003457
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 449158143240278812
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: 6648985070650973037
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -978199578776223369
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 1985896739091855351
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -4299450563849063272
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: -7404046351122363171
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: -2672790692991503426
+    second: Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -4363848911923177976
+    second: 'Armature|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: -7286132203235199603
+    second: mixamorig:HeadTop_End|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 3457760919877357028
+    second: mixamorig:HeadTop_End|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -5341847521327062441
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: 5276651458640048658
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: 251376338695000050
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: 8751581118346168081
+    second: 'mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 111704930574632671
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 9237567639689346
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 3434764737524269639
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: 8290013938196958515
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: -1658358021770749050
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: 7268515086516748968
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: 5971544112872964287
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: -7082328105773072824
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: 3492001789352881802
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: -1581611582068119835
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 4688921639442402066
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: -6638800087782279685
+    second: mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -1949453761072884788
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: -7783585628238254289
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: -8939579718790680745
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: -6756624581158086322
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: -4138552695638863511
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: 6973052309276342300
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 1781648665179985963
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: -2517100911014404298
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 3492244165037922314
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: 2426968543680331561
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: -6015951940644712423
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: 6705914761703006209
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: 2680586386250408081
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -6397355424617506102
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: 5182808834164735049
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -5333136311501129303
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -1836561914084879397
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -782679201521368051
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 7726867869972248201
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: -8791494513623670310
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: -4572829495841488213
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: 6780660073603493464
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: 5478868059570594192
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: 4246661007823968382
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: -8690549034765422770
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: 637415879555315596
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: 6168863460403354766
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: 6707941936408292967
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: 2082263828416509981
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 5652385614117537331
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -9164741048663342985
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -2012978423419441723
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 2318041649951534651
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -5790635912332144122
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: -7284360436549918735
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: 2473587491359855916
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: -650282332290510540
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: 7950277233013734729
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: 1794823267558007117
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -402425119486743399
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: -2967500127801036465
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: 7914621617455059259
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -8535671485598279211
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: 732678612829177328
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: 5558566366028492177
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 6726591424159914889
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: 2937460687800267468
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 6589830404310222926
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: 6145868607796516003
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 3797966413919337258
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: -3662453199069492786
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 4529848862037958075
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 8026394691990466439
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -4990105801566114830
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: -6951906639116869022
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 7557555050983189834
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: 5449715879963447097
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: -3467891555091063395
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: -2360807518008202850
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 2703680163221930261
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: 7945768540692344945
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -478754868926567683
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -7366145235400806672
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 7286076246340654034
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: -7072521373224189962
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: 845178906188663921
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -8015948823210031882
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: -7527074408469751161
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: -706791041027405933
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: 8248356634021678414
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: -7772484603660432878
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: 1076255272187477065
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: 6035770437169223806
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -1332090510704526555
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: -2967258510738294157
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 9023000619250858532
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: 2100013357129706896
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: -8074375614230577514
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: -4351674794922805777
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: 4948984943466688921
+    second: mixamorig:HeadTop_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: 2578192799449233870
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: -2599773986725366997
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -8399656571670571350
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: -7481043930454570194
+    second: 'mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: 5107489418951298407
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -2027999035167766362
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 5421100321589601044
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: -2922710515598333433
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: 8797620939319099029
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: 2981931407499829671
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 6633240145869861099
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -8597075119120314644
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 771976076112931897
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: -9115588960976619819
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 5866594332517703986
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: 2856959238574735446
+    second: mixamorig:HeadTop_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: 438913167907386977
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: 8491479096305627065
+    second: 'mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -943131726802640554
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -4996422591951393481
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -6792529226070403935
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: -4877277881567164784
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: 3086997725473892652
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 5303725494558860902
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: -4938385174959885021
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: -1041997553163012704
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -1877962614385265431
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 5159740810796555022
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -6165882231041085251
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: 6766088938042831445
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: -8399939370507113793
+    second: mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -6606291109577351317
+    second: 'mixamorig:HeadTop_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: 6605352167124213949
+    second: mixamorig:LeftHandThumb4|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -7258552603030723737
+    second: mixamorig:LeftHandThumb4|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 8745386706362050218
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: -1738197608486721257
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: -6464255260551373563
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -8942054382982289911
+    second: 'mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 4958176160836927085
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 4835627182431731580
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 6769774347159547390
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: 4688747901621337231
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: -2944776490817139786
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: -7205525078983916431
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: -3264889466487549622
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: 2152950969669232630
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: -8470086023190524286
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 1672077906637826293
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: -8421291876602163588
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 6031376754032908118
+    second: mixamorig:LeftHandThumb4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: 1854252691469444212
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 8179161274614426620
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: -579995210283172085
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 5416773079637967836
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: -3921715992961302197
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: -8125400114435962771
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 1171737854979211345
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: -2715366479208282173
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 5249557129466458948
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: 8418672134534961682
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 7355734886910246278
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: 8212773999110660878
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: -9033866801207287066
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: 2666602872180855333
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: -6298619645967469766
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -8189696108596982589
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -7925287197403966835
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: 823965766542723122
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 7609446042197346200
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: 126850697319478690
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: 6726688630575559141
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: -7463528918378978550
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: 7580761020687543767
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: 483487781645155746
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: -5186971247935115924
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -4142475572411475122
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -2509213081543134709
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: -1489320646844461919
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: -6906377136040741421
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 25821965212846583
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -2733898195104655711
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: 1946869209741152047
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 1682772761944101938
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: 234217319000862693
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: 5584729611971050634
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: -5461022439922551313
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: -3252164754798225511
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: 60585570627196804
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: -8014561250875783448
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -8531344754646856336
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: -7808438588264177133
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: 1594893347681632753
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -716021694327537870
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -7944220324512128683
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: 2150562705684420278
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 3680082757390702868
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: -3466008628388163290
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 6555625958543433133
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: -5593401578715794228
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 2132444232750157106
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: -1400627790022889054
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 2309506938374279847
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: -3229002006458081594
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -3908319682659355279
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: -5652462247897934013
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 5444731621416972866
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: 7146189502253379715
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: 1568549984453409403
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: 6029769914631688593
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 4571394009795967495
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -3002630056471495393
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: 2275252654831247801
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -6997792770772960055
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 7237474791738571099
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 4147141388076643276
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: 6959116024990117820
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -5077612712843892489
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 2581237807408261504
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: -2310932580032213922
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -201134291849909199
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: -7049353967116780285
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: 6003248803216902924
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: 2228642913840465974
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -4806036512312042405
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: -7130767434589804882
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: -1803097751779220102
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: -4739409249604782232
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 366042073166494581
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: 3837993807634456124
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: 4432079771898179469
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: -8930061163864471901
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: -965960556594354504
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -5197873323808652253
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: -6534111214028164909
+    second: 'mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: 2317187617155116221
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -6436934490598321046
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -4224815623426912081
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: 5919392549017555523
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: -5934820092032835102
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: -8956876805688296250
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 6909094142140137160
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -8975623546544614785
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: -6432143220429358307
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: 342536206083304425
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 5988570977480607146
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: -5163759307173648302
+    second: mixamorig:LeftHandThumb4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: 3839889892624084513
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: -356199009391974546
+    second: 'mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -1136279422909392193
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: 6354228448427911693
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: 3312559480597913205
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: 9032238764960923594
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: 7299972663810227925
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: -4641677457979757355
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 4255036670084290818
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: 7814285823524332986
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -9127452775732537267
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 6403199491225450020
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -5097563646049328129
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: -6529873336494751027
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: 2731444209440419814
+    second: mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -3733482718393259892
+    second: 'mixamorig:LeftHandThumb4|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: -8359738836426768565
+    second: mixamorig:LeftHandIndex4|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -1702294303887685520
+    second: mixamorig:LeftHandIndex4|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 8953556651194318982
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: -8940194686996581796
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: 1183466623630309563
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: 6329651744490440397
+    second: 'mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: -5644914832360536378
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -7696472188120751984
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 4640486124530170259
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: -7837309948382538382
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: -6365815288252748775
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: 4189820894435960529
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: -1882985864332721296
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: 1888086759982278541
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: 6694684603708077012
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: -4152389447109527108
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 8739180232827229504
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 2514364445304908327
+    second: mixamorig:LeftHandIndex4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -9221735395973516650
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 5345956001296191278
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: -770028455709824833
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 8378053612582446650
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: 249355044913632985
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: -8420336197490988069
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 1085655692614449713
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: -6816183239106787783
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 2106628515392727634
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: 3896589636086956781
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 2115841688327120783
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: -7846538406045656381
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: -997752827730515530
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -6447604004724791844
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: -3366038627667472647
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -6264794277581393148
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: 2495095610416818632
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -3763071313222406508
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 1287174970212752254
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: -1553184025073173335
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: 6453205286202077708
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: -3535625002287418270
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: -2631546793671278530
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: -8550296424552103812
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: -7985678176705542086
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: 2916116964970946289
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -5524265356897355673
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: 1568476295172077389
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: -456454277119852192
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 8513205759114334284
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -2343412535271490825
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: 7877687369389007494
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 3230315876294949305
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: 7871865204520364
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: 8195257544804956365
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: 1913158431415513598
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: -4047073631652190857
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: 7022844732720023258
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: -9010355933582213250
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: 7943863572940970211
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: -471472244660482089
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: 4632417662895339980
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: 1887003909108032902
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -4835339269289113922
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -2114206273015839093
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 7596125846611621517
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: -7136551396392309357
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: -8026052835052844844
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: -1189596617606067178
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: -4158593953999039708
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: 4011591612039266944
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: -4707765783783471257
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 874026532991145338
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -5644991731542949122
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: 1636301706845852026
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 8171183891551868941
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: 6568913102589571040
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: -1805211549222938880
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: 6141044181089256650
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: -8293843049017196135
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -4185206257287307996
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: 6690302878288819936
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -6707094974797598682
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 6908517215158596504
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: -3444135350238162561
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: 8501678747447401305
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -7308190015300922282
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 2977800565076972230
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: -6126764595408831089
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -7118525082392488888
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: 8620182149350084108
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -6960903487812423514
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: 3151223127279477537
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -4176607014273867135
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: 3454824648453604322
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 7548137820494274338
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: -2586508287937805379
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: -1412947693355969231
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: -3851969491780188363
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: 2288435053539453664
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: 2439620744435893849
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: 6997618605611149633
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -3243361968309640162
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: -4004773203463337770
+    second: 'mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: -2422103787226310793
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 5042627357950156021
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 9194445784596965401
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: 8383828298678711805
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: 6643607932458674228
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: 7397259006758036144
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 5538598766532768695
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -7418724529854408201
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: -6154348094352354731
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: -3558389538425241932
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 2248738315500016496
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: -1295968901590662914
+    second: mixamorig:LeftHandIndex4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: 2649584445015708192
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: 3432324995809967057
+    second: 'mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -8985972003022587354
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -9158287265993193149
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -8597249873395783428
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: -4082295664004530121
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: 1190396056230477996
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 6251945424247710948
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: -1755783717033920547
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: -6066215990853670445
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -4050753432341671169
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 384856067100138032
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: 9206604566583425384
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: -1506750695315350453
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: 4983012864364898567
+    second: mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: 7972907854109426306
+    second: 'mixamorig:LeftHandIndex4|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: 162639455135476504
+    second: mixamorig:LeftHandMiddle4|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -5128545721575971087
+    second: mixamorig:LeftHandMiddle4|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -6136115459358092545
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: 2681993800101944088
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: -3022697149808080685
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -4105105826751240872
+    second: 'mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 5882323450125453393
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 7827663965080383027
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -3139175787320083954
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: -1400897898567972905
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: 4932907324621674084
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: 6585976291568390924
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: 752138633137610525
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: 8158935108736874675
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: 3740793078337984238
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 7107338958413690190
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: -8593996606022454402
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 6237031044110492034
+    second: mixamorig:LeftHandMiddle4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -6968891361280722191
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 2696993649071762685
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: 2429875873889051406
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 2490361147430477463
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: 851169605292996531
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: -691043887743230067
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 6032856782956564277
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: -1516704494030105236
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: -685088994747103241
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: 6770975915744559682
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: -5315285367210089468
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: -4771751381652391161
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: 8072287564943678860
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -7965567962920935039
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: 2679719202628354067
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: 9023292640187844716
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -2680200031494883841
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -6885916882724987083
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 705508593956442999
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: 7887072761512285016
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: 3865808912334680639
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: -1277754555357549283
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: 7858366141559146902
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: 2609153941498762249
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: 7433956349648851864
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -6164855633968579592
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: 2348143449430493341
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: -7842333235950945750
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: 8553387530440926948
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 5958951833029115267
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -7780092975644985052
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -7512185599754958953
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 8460172055962805122
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: 7245295902675790941
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: -1123291515974982495
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: 3429234542820973656
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: 4686362745441198379
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: -5964152057395062254
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: -4971304155685474376
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -1255657541675640807
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: 8449918286709561374
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: -6921389023835687181
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -7213624672654729175
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: 8090636195506063597
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -3929450076158726333
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: -5478077366441969305
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: 1443741229603324495
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 3639324249703738670
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: -972349653149988773
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 9065914459253437641
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: 421323984641827532
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 2401676085121537821
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 1110497054852767445
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -2378501776921321919
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: -8100939480803181328
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 2603581672057704133
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: -470842754272942286
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: -5634375365922850083
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: -5076992866966659700
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 3878547877858174005
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: 7770370345048775114
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: 8948170698305836152
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: 2494219819573522238
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: -8965565073796945663
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: -3344236628272460186
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: -6363215292074328859
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -3881230552103637556
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: -3775214838202572567
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: -6581581218438397070
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: 5555413339435496102
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: 7399592784049698352
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -2059741266287502359
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: -1469580591814789321
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: 4614370951469975764
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: -4347769254858439541
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 9067012415601832967
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: -3601195263709907380
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 3265809660072613669
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: 2703804167692823785
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: -5359434845422890772
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: -3832251927770674236
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: -8438837274134039066
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: 2907827471917393351
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: 3537446884251564679
+    second: 'mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: -7560670191424324210
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -6225842435819921091
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 8671197233870272284
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: -4000879403202054542
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: -8458258929903353168
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: -2407828374629130404
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 2102841843003519328
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -3836944984699996406
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 4258059653353694425
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: 5822414555053931988
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: -8861637670694971023
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: 7598641433139594862
+    second: mixamorig:LeftHandMiddle4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: -7931527886449929381
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: 7228643299958880836
+    second: 'mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: 2113304264991759599
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -3454617408025555554
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -5246102336016275412
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: 8593577558849263047
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: -6694507390303877201
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 6401222247742700682
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: -4854294032304017791
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: 1932061995448110334
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: 4047807677280033518
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 4110229165728667244
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -3675622443704217345
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: 2532565272456769956
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: 3599958966405853092
+    second: mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -7045972270470810244
+    second: 'mixamorig:LeftHandMiddle4|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: -3549456957625255547
+    second: mixamorig:LeftHandRing4|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 7857707509859822179
+    second: mixamorig:LeftHandRing4|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 3144020363834433974
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: -4723947878229175710
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: 5398256323316441634
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -4592625731457252750
+    second: 'mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 4334904715254527173
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 6304694468595813446
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -4109257920480411946
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: -2293049370799834272
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: -6724208274598348688
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: -3702147443780590785
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: -3645730867899948280
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: -1466521165430929210
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: -2835138322439049789
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 1263544332319976475
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: -8061846243916751643
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 2652291296285162403
+    second: mixamorig:LeftHandRing4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: 122874735626967275
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 259054221852136110
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: 2945147507467819114
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 7027032099922565511
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: -653088296730876092
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: 7299305013896167690
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 8894156653511526467
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: 998096339109766251
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 8568676141804483026
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: -905910302856590584
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 7496840819253562643
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: -6102763488012583196
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: 8157520396820491719
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -2239735613173495486
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: 7311104350846527367
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -59986188743456199
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: 6465076757246061625
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: 2299178308473675167
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 6258163064047354007
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: -8043690705872940967
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: 5146746527717011758
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: 2273755882439923103
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: 555408111663786662
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: -5523398706767433422
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: 2684803593780820607
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: 4063956138168665208
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -6662887733325419561
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: -3727369109017812469
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: 8102033312648323809
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 8002961596286058313
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: 4450177287907849070
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: 1114125102824060008
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 3115553489897652299
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -9050840444043738731
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: 1311872496663875734
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: 7434743907018494245
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: 8620296028597821330
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: 5207071442185066273
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: -2931355344461946785
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -1275994247212988411
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: 6004626449840101157
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: -3032888473019795272
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: 5499607679645052334
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -7042012579767651638
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -7011351616059654521
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 3523639962125459259
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: 6047600074272915233
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 2713559707891706337
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: -1972088215064460777
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 1493920945103057859
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: -5451626986188600
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 1212265841174046715
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: -7071121909887148064
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: 4829641267603052834
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: -5806020992964218234
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 677352225227970745
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: -162325433101908493
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: 3801107476657229564
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: 7920466796264597472
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 9660096748101784
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -6110049196573015776
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -4350959283461167713
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -2169631472491699749
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: -4903604022970052628
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 2079903795338960949
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: 1053818989278365019
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -4306025689953792596
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 5128623139314064850
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: 4678091711879064244
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -5168630159670817381
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: -4468753192778931963
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: 2871901781612727514
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: -357199279560823398
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -1394344263100815600
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: 7911821480816712199
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 6526382201901226665
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: 7396527485545535391
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 4260337166522660540
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: 3480587841749212127
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: 2597716054005090660
+    second: mixamorig:LeftHandRing4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: 8931663132376250391
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: 8922443849031034682
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -7236505303709364917
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: 6548342213691035397
+    second: 'mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: -5696031609470142796
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 3760498875400042503
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 606341435654335450
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: 8677294027934198867
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: 2949088603162453773
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: 2454363344216008240
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 6366977323666044649
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -8686462260450756994
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: -1179526864903315695
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: 4553898397779437747
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 8039433834069796910
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: -826222006322051977
+    second: mixamorig:LeftHandRing4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: -5643445249342995874
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: 1044356336628412507
+    second: 'mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -6622867824780070248
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: 6559744888980008801
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -1029890141706640763
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: 6972342881209088291
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: 8797745006245554563
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 6924370175870922391
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 4939198252971189620
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: -4685173475522997212
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: 4395284412892925770
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: -4305375865511374816
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: 452314948491986481
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: 3118335021843758529
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: -7368328846119670626
+    second: mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -7977363543770728874
+    second: 'mixamorig:LeftHandRing4|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: 2174430178924340225
+    second: mixamorig:LeftHandPinky4|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -1775696526982106980
+    second: mixamorig:LeftHandPinky4|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 5146661862641711401
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: -7619768140579358397
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: 5793572918707253930
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -9120670182786032647
+    second: 'mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: -6305945393581528252
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -4855726863081583231
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -2224563982716244615
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: 4531554204311092987
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: 1568557600762974556
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: -6018117832206117704
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: 3620793004960608359
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: -7468704561225236677
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: -3978499351579628476
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: -4388354100730641894
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 6931353450895211239
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: -2696590119215822704
+    second: mixamorig:LeftHandPinky4|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -2011249693401007866
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 6454549813317973071
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: -4993407518046320792
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 759071202999586795
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: 8121967453986538663
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: 2339564829066113951
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: -8296314459080371032
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: 3495937588354557705
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 4126426572096934519
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: -4993995552471397428
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 3145834551212543189
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: -5979678438871729406
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: 5396872368966908850
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -4798521807045038950
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: -6419601886640828868
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: -5873766947486592611
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -8665451011979565522
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: 5129929517986814304
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 7810573577210129471
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: -7893064529313332345
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: 4473488044738722722
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: 877179834578004946
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: -7499164774100672089
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: 2528107483983265838
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: 3026163550718252638
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -6366504816778330462
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -5932627523704866710
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: -8517336870407782581
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: 6957739734741780901
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 1747309935021830415
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: 8694006976991611091
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -1239860285529233229
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: -8572174182135262798
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -698975634078866590
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: -8952005545823987667
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: -1186615678716880072
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: -1902526378762127586
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: 5727405620447888739
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: 5397710656689253194
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: 4256963753559308337
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: 6819467760977893360
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: -9012950048935318560
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: 5481447544407940040
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -6668301543474973558
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: 306651450626385894
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: 3755342036888259953
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: 1842637718578906567
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 3941773384463010898
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: 7293585211853418338
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 6937187000589056758
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: 4103041134653961801
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 5791478984511062219
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 1449384478292904598
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -5376008022603455816
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: -8572114429257725212
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 8241151906464930022
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: -101564743509748258
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: -8234616244859189047
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: -8003498873407761394
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 4783575317498231284
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -5175624520399420057
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -3107083231168282904
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: 7195587689412647991
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 1203652499965102202
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 8351719123708625747
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: -2872179393002195126
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -8805238813489369905
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 4363530380345141589
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: 5187176181607977972
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -420420553844346116
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: 2144371239772746185
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -946642318216115078
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: 8841311823578838638
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -3927862131838132146
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: -8557984688431625988
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 1730692089596041877
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: -3731070282382197578
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 1988654760596254347
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: -1743141117202796692
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: -7257918639988971023
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: -595438093955034487
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: 4043655371860482835
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -4269047145085916086
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: 737528197992107627
+    second: 'mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: 5841437869995179768
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 3847650929255858682
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: 4883562979659875545
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: -636759371406483559
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: 928754555512085084
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: -3485222084717664673
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 796480791201323768
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -2765621224320489296
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 3138866376553829781
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: 2413281193896086437
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 1796774146352048673
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: 3458368781222723467
+    second: mixamorig:LeftHandPinky4|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: -627277281394884719
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: 789622350384430768
+    second: 'mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -678667746860484457
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -6696303641086880520
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -4687798759072124898
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: 2922214077090577887
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: -667411881618971485
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 2474275871159912605
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 1379537997714001758
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: -8463685957103324275
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: 3746563213045351496
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 4033177269099241882
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -2012574997767707460
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: -4387915802866023548
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: 8988013406483148996
+    second: mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -1742912063033511914
+    second: 'mixamorig:LeftHandPinky4|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: 9117463072994098956
+    second: mixamorig:LeftToe_End|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 6312829260113278734
+    second: mixamorig:LeftToe_End|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 6273059155432878132
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: 7214897329207460778
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: -1308464178148359035
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -1861876573136824056
+    second: 'mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 7216766098411722615
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -5762715854814947996
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -5113903558703201601
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: 6052868188217500765
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: 2290120834508604672
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: 8777058785964880063
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: -7964350227678675731
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: 6919850554628284976
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: 2336465717445646194
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 3795010691751417738
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 4420686492575182804
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: -7231454502385927976
+    second: mixamorig:LeftToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: 3980099907832999652
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: 6264394551299038789
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: -5369266100022330509
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 6008677713934013898
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: -1241480360962113183
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: 2922620422459209261
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 2102408111133681087
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: 8457507089327020100
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: -1587690473526306144
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: -3716710250383933697
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 8865928532606515752
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: 63732568125767139
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: -6355249668589236100
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: -2506573859669834981
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: -7995714316551453072
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: 8277265264348882111
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: 1514497136426090227
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -9091130902716148308
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: -2912074333066789388
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: 6099982917953866974
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: -3398500147645678502
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: -5355588760448985796
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: -6948049497483124486
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: -3516473787002005571
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: -3194784038011756691
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -2244349094226469324
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -4571906637578299901
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: 2170968389850778268
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: -764802223014322097
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: 2279757552529232548
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -4332109135256137232
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -1588334058346846652
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 612836433769415171
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -6605026992806299675
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: 1748880790995626500
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: -164358103727354362
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: -7316848890888714138
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: -7833510911295732536
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: 2086616328920398152
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: 5548576219414357192
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: 3508278984839777268
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: 5275936613832205214
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -3841662708774567155
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -9181251190747310720
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -9045705336621976994
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: -1404715028177011235
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: -2159702374014754296
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: 8967048367590023318
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: 3865919671482449451
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 2490732831482354252
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: 8411421170509298655
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 4620478720419707281
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 2365477694705468620
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -3865660184192813747
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: 2271921086096190242
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: 251024097609364759
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: -7300522663222747328
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: -730348304799882404
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: 2800112539978003079
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: 2880164085606116911
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: 1889959615756878370
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -2000431568133515233
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -2964657746566094197
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: -1765927086896922207
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 588287064149783619
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: -4275070604532019403
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: 8265316098486303239
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: 2313278406272660293
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: -7402243288933079547
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: -1428680184471450325
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: 2360635510071159784
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -6672152311741234263
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: -2623850735013673554
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: -1044823910527702387
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: 65492449669772765
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: 4357875220730035957
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: -4620902728866284066
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 5870789616601543554
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: -4408518240088768125
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: -5099083624084693688
+    second: mixamorig:LeftToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: 4976173721413881562
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: -6626876515471481771
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: -477332198279797694
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: -8863267940240866241
+    second: 'mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: -3321726423234473075
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 3109515708086570838
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -776750310715279729
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: 4596517404900962405
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: -533758120415765726
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: -4861384006515157396
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: 2461504822848296700
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: -9112358943971956859
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 2720059943056269021
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: -4317683961066067121
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 4383198791591308590
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: 4944601905144321432
+    second: mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: 8170850615920652127
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: -898204087398031551
+    second: 'mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: 9115390562114597636
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -5379245372803403426
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: -2353261759387644256
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: -7670273986270866503
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: -4964332326415728362
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 4591511501337887964
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 6228720008962476481
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: 4923341102145139127
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -199216047245579987
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 4625338242149060968
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: 2803849664725946914
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: -5895868486517727493
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: -4104609949219222523
+    second: mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: -7828117466245055633
+    second: 'mixamorig:LeftToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  - first:
+      74: -1324359553640626917
+    second: mixamorig:RightToe_End|Armature|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: 432944231725546251
+    second: mixamorig:RightToe_End|Key|Armature|Armature|Take 001|BaseLayer
+  - first:
+      74: -6708474274552566630
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Armature|Take
+      001|B
+  - first:
+      74: 2499099045782912113
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy001332|Take
+      00
+  - first:
+      74: -1395903916548656773
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00222|Take
+      001
+  - first:
+      74: -2793611828632699356
+    second: 'mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Dummy00333232|Take '
+  - first:
+      74: 6711063835381759143
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: 4842693343934394817
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -2903061976621795383
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Manometr|Take
+      001|B
+  - first:
+      74: 5258582301211290296
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:HeadTop_E
+  - first:
+      74: 5079754434320424429
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandI
+  - first:
+      74: -7816310468098346328
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandM
+  - first:
+      74: 5697458300814648924
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandP
+  - first:
+      74: 8005946573159114169
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandR
+  - first:
+      74: 2759904722943728304
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftHandT
+  - first:
+      74: 7823144928554317355
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:LeftToe_E
+  - first:
+      74: 1061659408419408238
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|mixamorig:RightToe_
+  - first:
+      74: 8808016031255396405
+    second: mixamorig:RightToe_End|mixamorig:HeadTop_End|mixamorig:HeadTop_End|Remen_balon|Take
+      00
+  - first:
+      74: -2513724614070045902
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Armature|Take
+  - first:
+      74: -6528911772187169311
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy001332|T
+  - first:
+      74: 1322763383342157539
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00222|Ta
+  - first:
+      74: 6896469338380840761
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Dummy00333232
+  - first:
+      74: 1196427760483979972
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Fire_Axe|Take
+  - first:
+      74: -845864899376440974
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Key|Take
+      001|
+  - first:
+      74: 6724556901533651791
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Manometr|Take
+  - first:
+      74: 8875132217731628903
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig
+  - first:
+      74: 263632555952799535
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.001
+  - first:
+      74: -6121713564510075557
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.002
+  - first:
+      74: 6558909577282310297
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.003
+  - first:
+      74: 5319299101394122680
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig.004
+  - first:
+      74: -5568329789792786550
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Hea
+  - first:
+      74: 5409746324426044856
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Lef
+  - first:
+      74: 1753233081335053648
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|mixamorig:Rig
+  - first:
+      74: 4122009556289053909
+    second: mixamorig:RightToe_End|mixamorig:LeftHandIndex4|mixamorig:LeftHandIndex4|Remen_balon|T
+  - first:
+      74: -7298915591337026533
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Armature|Ta
+  - first:
+      74: -9213768293023371293
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy001332
+  - first:
+      74: 2455530013893621886
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy00222|
+  - first:
+      74: -3879367898931192361
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Dummy003332
+  - first:
+      74: -8900157339510358729
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Fire_Axe|Ta
+  - first:
+      74: -2757573389156967452
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Key|Take
+      00
+  - first:
+      74: 8402066306798970925
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Manometr|Ta
+  - first:
+      74: 3972263812406565481
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor
+  - first:
+      74: 4477927284052826317
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.001
+  - first:
+      74: -5643467863176586105
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.002
+  - first:
+      74: -2952311794584745888
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.003
+  - first:
+      74: 6483653455089842340
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamor.004
+  - first:
+      74: -7144254631644081530
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:H
+  - first:
+      74: -6670108704184248835
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:L
+  - first:
+      74: -3431194888794867839
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|mixamorig:R
+  - first:
+      74: -1652542774891892259
+    second: mixamorig:RightToe_End|mixamorig:LeftHandMiddle4|mixamorig:LeftHandMiddle4|Remen_balon
+  - first:
+      74: 2365917969552444984
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Armature|Take
+  - first:
+      74: -1135270255721539605
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy001332|T
+  - first:
+      74: -5389760881584757100
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00222|Ta
+  - first:
+      74: -4417902171354852908
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Dummy00333232
+  - first:
+      74: 8957638509177752324
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Fire_Axe|Take
+  - first:
+      74: -7031900587967230418
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Key|Take
+      001|
+  - first:
+      74: -1111352567118784151
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Manometr|Take
+  - first:
+      74: -1948611263170486990
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig
+  - first:
+      74: -3302651585864657119
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.001
+  - first:
+      74: 8278628718157533486
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.002
+  - first:
+      74: -5807552373069515867
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.003
+  - first:
+      74: -7565905172825787014
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig.004
+  - first:
+      74: -2599325435796170134
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Hea
+  - first:
+      74: -8669506460577789791
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Lef
+  - first:
+      74: -4126839959473322989
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|mixamorig:Rig
+  - first:
+      74: -1916893173232363545
+    second: mixamorig:RightToe_End|mixamorig:LeftHandPinky4|mixamorig:LeftHandPinky4|Remen_balon|T
+  - first:
+      74: -2389663561964411172
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Armature|Take
+      0
+  - first:
+      74: 8691790868790889279
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy001332|Tak
+  - first:
+      74: -6991287876929706720
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00222|Take
+  - first:
+      74: 9074227575789533180
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Dummy00333232|T
+  - first:
+      74: 8765695426013054592
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Fire_Axe|Take
+      0
+  - first:
+      74: -5615558752297833791
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Key|Take
+      001|Ba
+  - first:
+      74: 2162255164121209627
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Manometr|Take
+      0
+  - first:
+      74: -3333359465427261429
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:HeadT
+  - first:
+      74: 8708145317933733573
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L
+  - first:
+      74: 3597714839224401797
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.001
+  - first:
+      74: -9020626282936125966
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.002
+  - first:
+      74: -7774313081818466946
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:L.003
+  - first:
+      74: -8047859467460433369
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftH
+  - first:
+      74: -7732912295636283383
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:LeftT
+  - first:
+      74: -1685976855710085422
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|mixamorig:Right
+  - first:
+      74: 3648094308877897319
+    second: mixamorig:RightToe_End|mixamorig:LeftHandRing4|mixamorig:LeftHandRing4|Remen_balon|Tak
+  - first:
+      74: 2779620356654605351
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Armature|Take
+  - first:
+      74: -1140336284958794213
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy001332|T
+  - first:
+      74: -9141862780610909043
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00222|Ta
+  - first:
+      74: -452500604626887010
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Dummy00333232
+  - first:
+      74: 8913755806234303558
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Fire_Axe|Take
+  - first:
+      74: 6674156830528511087
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Key|Take
+      001|
+  - first:
+      74: -4299081475864865019
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Manometr|Take
+  - first:
+      74: -8748654372761208617
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig
+  - first:
+      74: -4021541218019816577
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.001
+  - first:
+      74: 865085510937646182
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.002
+  - first:
+      74: 5138361866167991379
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.003
+  - first:
+      74: -774216058870567800
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig.004
+  - first:
+      74: 835946340788085285
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Hea
+  - first:
+      74: 1335043903917783566
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Lef
+  - first:
+      74: -4346550438774475429
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|mixamorig:Rig
+  - first:
+      74: -3333552352227369807
+    second: mixamorig:RightToe_End|mixamorig:LeftHandThumb4|mixamorig:LeftHandThumb4|Remen_balon|T
+  - first:
+      74: -3289214647980334320
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Armature|Take
+      001|B
+  - first:
+      74: 3878438923076629753
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy001332|Take
+      00
+  - first:
+      74: 3555968081454075918
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00222|Take
+      001
+  - first:
+      74: 7237202692091059268
+    second: 'mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Dummy00333232|Take '
+  - first:
+      74: -3524190291668047220
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Fire_Axe|Take
+      001|B
+  - first:
+      74: -6796687093309956399
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Key|Take
+      001|BaseLa
+  - first:
+      74: -7712642630237444635
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Manometr|Take
+      001|B
+  - first:
+      74: 6386904460667803798
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:HeadTop_E
+  - first:
+      74: -5554376829637753610
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandI
+  - first:
+      74: 4138447932481958511
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandM
+  - first:
+      74: -7505234016485107625
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandP
+  - first:
+      74: 4089727324055698296
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandR
+  - first:
+      74: 1892711545363370950
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftHandT
+  - first:
+      74: -834307069441640539
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_E
+  - first:
+      74: 8796856802336770101
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|mixamorig:RightToe_
+  - first:
+      74: -7205462832891364368
+    second: mixamorig:RightToe_End|mixamorig:LeftToe_End|mixamorig:LeftToe_End|Remen_balon|Take
+      00
+  - first:
+      74: -5852481148729016980
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Armature|Take
+      001
+  - first:
+      74: -3447013565289935053
+    second: 'mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy001332|Take '
+  - first:
+      74: -8417627603928406512
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00222|Take
+      0
+  - first:
+      74: -5040397170930603231
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Dummy00333232|Tak
+  - first:
+      74: 6285474719843238669
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Fire_Axe|Take
+      001
+  - first:
+      74: -5939193520698156986
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Key|Take
+      001|Base
+  - first:
+      74: -1795053997994193883
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Manometr|Take
+      001
+  - first:
+      74: 404521239933286550
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:HeadTop
+  - first:
+      74: 7748089451999344095
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef
+  - first:
+      74: -6646583714040426559
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.001
+  - first:
+      74: -4179228414381726922
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.002
+  - first:
+      74: 8256450711673466161
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:Lef.003
+  - first:
+      74: -1341777651383122882
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftHan
+  - first:
+      74: 2344601483678992784
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:LeftToe
+  - first:
+      74: -4869507262064934731
+    second: mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightTo
+  - first:
+      74: 6309343293788163006
+    second: 'mixamorig:RightToe_End|mixamorig:RightToe_End|mixamorig:RightToe_End|Remen_balon|Take '
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
+      does not match:\n\tTransform 'Root' for human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 58
+    minBoneWeight: 0.006
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Thigh_Joint_01
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Thigh_Joint_01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Knee_Joint_01
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Knee_Joint_01
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Ankle_Joint_01
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Ankle_Joint_01
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ribs
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Shoulder_Joint_01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Shoulder_Joint_01
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Upper_Arm_Joint_01
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Upper_Arm_Joint_01
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Forearm_Joint_01
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Forearm_Joint_01
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Wrist_Joint_01
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Wrist_Joint_01
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Toe_Joint_01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Toe_Joint_01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Thumb_Joint_01a
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Thumb_Joint_01b
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Index_Finger_Joint_01a
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Index_Finger_Joint_01b
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Index_Finger_Joint_01c
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Middle_Finger_Joint_01a
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Middle_Finger_Joint_01b
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Middle_Finger_Joint_01c
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Ring_Finger_Joint_01a
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Ring_Finger_Joint_01b
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Ring_Finger_Joint_01c
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Pinky_Finger_Joint_01a
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Pinky_Finger_Joint_01b
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left_Pinky_Finger_Joint_01c
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Thumb_Joint_01a
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Thumb_Joint_01b
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Index_Finger_Joint_01a
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Index_Finger_Joint_01b
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Index_Finger_Joint_01c
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Middle_Finger_Joint_01a
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Middle_Finger_Joint_01b
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Middle_Finger_Joint_01c
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Ring_Finger_Joint_01a
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Ring_Finger_Joint_01b
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Ring_Finger_Joint_01c
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Pinky_Finger_Joint_01a
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Pinky_Finger_Joint_01b
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right_Pinky_Finger_Joint_01c
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Robot Kyle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robot2
+      parentName: Robot Kyle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Robot Kyle(Clone)
+      position: {x: -2.1878564e-31, y: 106.28308, z: 3.5129852}
+      rotation: {x: 0.47294456, y: -0.52566475, z: -0.47294456, w: 0.52566475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ribs
+      parentName: Root
+      position: {x: -8.024528, y: 0.062167253, z: -9.82317e-16}
+      rotation: {x: 0, y: -0, z: -0.009375348, w: 0.9999561}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Ribs
+      position: {x: -39.539944, y: 1.2878587e-14, z: -8.9015506e-15}
+      rotation: {x: 0, y: -0, z: -0.15122359, w: 0.9884996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -7.9593115, y: 0, z: -2.0962138e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Shoulder_Joint_01
+      parentName: Ribs
+      position: {x: -24.796543, y: -1.8968333, z: 13.130726}
+      rotation: {x: -0.41058227, y: 0.44783446, z: 0.53675634, w: 0.5854563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Upper_Arm_Joint_01
+      parentName: Left_Shoulder_Joint_01
+      position: {x: -6.3585267, y: 0, z: -3.1086245e-15}
+      rotation: {x: 0.081057265, y: 0.122538865, z: 0.08575687, w: 0.9854237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Forearm_Joint_01
+      parentName: Left_Upper_Arm_Joint_01
+      position: {x: -23.83711, y: 3.5324671, z: -0.12605645}
+      rotation: {x: -0.0022793487, y: -0.041071136, z: -0.52682143, w: 0.84898007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Wrist_Joint_01
+      parentName: Left_Forearm_Joint_01
+      position: {x: -17.692583, y: -24.830172, z: 4.1935077}
+      rotation: {x: -0.0027681103, y: 0.008098039, z: 0.4626801, w: 0.88648397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Index_Finger_Joint_01a
+      parentName: Left_Wrist_Joint_01
+      position: {x: -7.0132217, y: 1.2475326, z: 2.5505245}
+      rotation: {x: 0.010232701, y: 0.006961332, z: -0.008666193, w: 0.9998859}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Index_Finger_Joint_01b
+      parentName: Left_Index_Finger_Joint_01a
+      position: {x: -4.053395, y: -2.3314684e-15, z: 9.922638e-17}
+      rotation: {x: 0.0007113588, y: 0.0004798609, z: 0.011196686, w: 0.999937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Index_Finger_Joint_01c
+      parentName: Left_Index_Finger_Joint_01b
+      position: {x: -2.294514, y: -3.190986e-14, z: 9.775167e-16}
+      rotation: {x: -0.011016605, y: -0.0002521592, z: -0.022881629, w: 0.9996775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Middle_Finger_Joint_01a
+      parentName: Left_Wrist_Joint_01
+      position: {x: -7.1809864, y: 1.2475326, z: 0.5054819}
+      rotation: {x: 0.010241737, y: 0.0067216777, z: -0.008703219, w: 0.99988717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Middle_Finger_Joint_01b
+      parentName: Left_Middle_Finger_Joint_01a
+      position: {x: -4.405283, y: 2.220446e-16, z: 1.314782e-16}
+      rotation: {x: 0.00064981356, y: 0.00044095775, z: 0.010304518, w: 0.9999466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Middle_Finger_Joint_01c
+      parentName: Left_Middle_Finger_Joint_01b
+      position: {x: -2.4933376, y: 1.4801235e-14, z: -4.9960036e-16}
+      rotation: {x: -0.010956354, y: -0.00023076385, z: -0.021056168, w: 0.99971825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Ring_Finger_Joint_01a
+      parentName: Left_Wrist_Joint_01
+      position: {x: -7.2257204, y: 1.2475326, z: -1.4861825}
+      rotation: {x: 0.010226014, y: 0.0071310615, z: -0.00863938, w: 0.999885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Ring_Finger_Joint_01b
+      parentName: Left_Ring_Finger_Joint_01a
+      position: {x: -3.8333588, y: -2.4980018e-16, z: 4.4126393e-16}
+      rotation: {x: 0.0007561775, y: 0.00050791446, z: 0.011838988, w: 0.99992955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Ring_Finger_Joint_01c
+      parentName: Left_Ring_Finger_Joint_01b
+      position: {x: -2.1700656, y: -6.4774507e-15, z: 8.274631e-16}
+      rotation: {x: -0.011060424, y: -0.000267697, z: -0.024194574, w: 0.99964607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Pinky_Finger_Joint_01a
+      parentName: Left_Wrist_Joint_01
+      position: {x: -7.2120047, y: 1.2475326, z: -3.3236191}
+      rotation: {x: 0.010191495, y: 0.007907592, z: -0.008530975, w: 0.9998804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Pinky_Finger_Joint_01b
+      parentName: Left_Pinky_Finger_Joint_01a
+      position: {x: -3.0515513, y: -3.1502578e-15, z: 2.4720095e-16}
+      rotation: {x: 0.0009738356, y: 0.00064097386, z: 0.014862133, w: 0.9998889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Pinky_Finger_Joint_01c
+      parentName: Left_Pinky_Finger_Joint_01b
+      position: {x: -1.7283714, y: -3.8666224e-14, z: 1.5274239e-15}
+      rotation: {x: -0.011272594, y: -0.00034267167, z: -0.030382684, w: 0.9994747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Thumb_Joint_01a
+      parentName: Left_Wrist_Joint_01
+      position: {x: -4.6887317, y: -0.4865311, z: 4.6988335}
+      rotation: {x: 0.38158312, y: 0.3811845, z: -0.19772212, w: 0.81853455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Thumb_Joint_01b
+      parentName: Left_Thumb_Joint_01a
+      position: {x: -2.8778248, y: -0.16480584, z: -0.2403863}
+      rotation: {x: -0.42036253, y: -0.37180415, z: 0.08352769, w: 0.8234563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Shoulder_Joint_01
+      parentName: Ribs
+      position: {x: -24.796993, y: -1.896791, z: -13.130699}
+      rotation: {x: 0.44783446, y: 0.41058227, z: -0.5854563, w: 0.53675634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Upper_Arm_Joint_01
+      parentName: Right_Shoulder_Joint_01
+      position: {x: 6.3585563, y: 2.842171e-14, z: -0.0000039259944}
+      rotation: {x: -0.062006928, y: 0.097105965, z: 0.020601885, w: 0.9931269}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Forearm_Joint_01
+      parentName: Right_Upper_Arm_Joint_01
+      position: {x: 24.062023, y: 0.5143739, z: -1.2117968}
+      rotation: {x: 0.78327316, y: 0.011671044, z: 0.0032698219, w: 0.6215595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Wrist_Joint_01
+      parentName: Right_Forearm_Joint_01
+      position: {x: 30.588373, y: -3.317292, z: 0.7066546}
+      rotation: {x: -0.7051211, y: -0.008241995, z: 0.012901517, w: 0.70892155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Index_Finger_Joint_01a
+      parentName: Right_Wrist_Joint_01
+      position: {x: 6.940201, y: -1.3847475, z: -2.6764035}
+      rotation: {x: 0.010311754, y: 0.015860815, z: -0.018616207, w: 0.99964774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Index_Finger_Joint_01b
+      parentName: Right_Index_Finger_Joint_01a
+      position: {x: 4.053422, y: -0.00009354332, z: 0.000002256092}
+      rotation: {x: 0.0007113588, y: 0.0004798609, z: 0.011196686, w: 0.999937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Index_Finger_Joint_01c
+      parentName: Right_Index_Finger_Joint_01b
+      position: {x: 2.2944803, y: -0.000007977574, z: -0.0000071668687}
+      rotation: {x: -0.011016605, y: -0.0002521592, z: -0.022881629, w: 0.9996775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Middle_Finger_Joint_01a
+      parentName: Right_Wrist_Joint_01
+      position: {x: 7.144747, y: -1.3888803, z: -0.63472134}
+      rotation: {x: 0.010317567, y: 0.015625587, z: -0.018670809, w: 0.99965036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Middle_Finger_Joint_01b
+      parentName: Right_Middle_Finger_Joint_01a
+      position: {x: 4.405302, y: 0.00006337014, z: -0.0000019575732}
+      rotation: {x: 0.00064981356, y: 0.00044095775, z: 0.010304518, w: 0.9999466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Middle_Finger_Joint_01c
+      parentName: Right_Middle_Finger_Joint_01b
+      position: {x: 2.4932733, y: -0.000037860835, z: 0.0000067108735}
+      rotation: {x: -0.010956354, y: -0.00023076385, z: -0.021056168, w: 0.99971825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Ring_Finger_Joint_01a
+      parentName: Right_Wrist_Joint_01
+      position: {x: 7.2252483, y: -1.3904233, z: 1.3558211}
+      rotation: {x: 0.01030666, y: 0.016033655, z: -0.018600237, w: 0.99964535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Ring_Finger_Joint_01b
+      parentName: Right_Ring_Finger_Joint_01a
+      position: {x: 3.833457, y: -0.000014894434, z: 0.0000029383655}
+      rotation: {x: 0.0007561775, y: 0.00050791446, z: 0.011838988, w: 0.99992955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Ring_Finger_Joint_01c
+      parentName: Right_Ring_Finger_Joint_01b
+      position: {x: 2.170031, y: 0.000020217867, z: -0.000009377064}
+      rotation: {x: -0.011060424, y: -0.000267697, z: -0.024194574, w: 0.99964607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Pinky_Finger_Joint_01a
+      parentName: Right_Wrist_Joint_01
+      position: {x: 7.2446427, y: -1.3907844, z: 3.1932003}
+      rotation: {x: 0.010280998, y: 0.016810415, z: -0.01849147, w: 0.99963486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Pinky_Finger_Joint_01b
+      parentName: Right_Pinky_Finger_Joint_01a
+      position: {x: 3.0516143, y: -0.00000478116, z: 0.0000060660286}
+      rotation: {x: 0.0009738356, y: 0.00064097386, z: 0.014862133, w: 0.9998889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Pinky_Finger_Joint_01c
+      parentName: Right_Pinky_Finger_Joint_01b
+      position: {x: 1.7282948, y: -0.000019535615, z: 0.0000014650439}
+      rotation: {x: -0.011272594, y: -0.00034267167, z: -0.030382684, w: 0.9994747}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Thumb_Joint_01a
+      parentName: Right_Wrist_Joint_01
+      position: {x: 4.612094, y: 0.39559877, z: -4.782508}
+      rotation: {x: 0.3836055, y: 0.3847731, z: -0.20918515, w: 0.81304246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Thumb_Joint_01b
+      parentName: Right_Thumb_Joint_01a
+      position: {x: 2.8778403, y: 0.16480286, z: 0.24040876}
+      rotation: {x: 0.12274438, y: -0.08501493, z: 0.3184496, w: 0.9361069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hip
+      parentName: Root
+      position: {x: 2.8992069, y: -0.25938722, z: 1.2299109e-15}
+      rotation: {x: 0.037740186, y: 0.9992876, z: 5.5119633e-17, w: 1.6300862e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Thigh_Joint_01
+      parentName: Hip
+      position: {x: -12.213362, y: 1.1331997, z: -6.8905554}
+      rotation: {x: 0.9957005, y: 0.09263137, z: 6.7376925e-17, w: 7.2423885e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Knee_Joint_01
+      parentName: Left_Thigh_Joint_01
+      position: {x: -37.17338, y: -0.19966115, z: 7.303617}
+      rotation: {x: 4.4401062e-16, y: 8.354493e-18, z: 0.018812645, w: 0.99982303}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Ankle_Joint_01
+      parentName: Left_Knee_Joint_01
+      position: {x: -43.405014, y: -8.4273526e-16, z: -8.746468e-16}
+      rotation: {x: 0.86925447, y: 0.49436495, z: 3.027112e-17, w: 5.3226485e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left_Toe_Joint_01
+      parentName: Left_Ankle_Joint_01
+      position: {x: -13.787192, y: -2.6645353e-15, z: 3.5527137e-15}
+      rotation: {x: -0.22729197, y: -0.66958076, z: -0.22729197, w: 0.66958076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Thigh_Joint_01
+      parentName: Hip
+      position: {x: -12.21335, y: 1.1331954, z: 6.89056}
+      rotation: {x: 0, y: 0, z: 0.9957005, w: -0.09263137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Knee_Joint_01
+      parentName: Right_Thigh_Joint_01
+      position: {x: 37.173412, y: -0.1996706, z: 7.3036394}
+      rotation: {x: 0, y: -0, z: -0.018812645, w: 0.99982303}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Ankle_Joint_01
+      parentName: Right_Knee_Joint_01
+      position: {x: 43.404976, y: 0.000007899868, z: -1.7763568e-15}
+      rotation: {x: 0, y: -0, z: -0.49436495, w: 0.86925447}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right_Toe_Joint_01
+      parentName: Right_Ankle_Joint_01
+      position: {x: 13.787201, y: 0.000006441087, z: -3.5527137e-15}
+      rotation: {x: 0.000000012219929, y: -0.000000004148106, z: -0.3214394, w: 0.94693017}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 320b1c2af77554f99a1658df4a6d3d5c,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

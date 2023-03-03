@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Cat-scenes.unity
+- path: Assets/Scenes/Triggers.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
