@@ -390,9 +390,11 @@
     <Compile Include="Assets\Resources\Oculus\Spatializer\scripts\ONSPVersion.cs" />
     <Compile Include="Assets\Resources\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
     <Compile Include="Assets\Resources\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
+    <Compile Include="Assets\Scripts\CatSceneTriggers.cs" />
     <Compile Include="Assets\Scripts\GameManagerForTriggers.cs" />
     <Compile Include="Assets\Scripts\HandForTriggers.cs" />
     <Compile Include="Assets\Scripts\PointForTriggers.cs" />
+    <Compile Include="Assets\Scripts\Trevoga.cs" />
     <Compile Include="Assets\Scripts\VRAnimatorController.cs" />
     <Compile Include="Assets\Scripts\VRFootIK.cs" />
     <Compile Include="Assets\Scripts\VRRig.cs" />

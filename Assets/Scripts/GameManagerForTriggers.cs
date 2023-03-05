@@ -29,6 +29,7 @@ public class GameManagerForTriggers : MonoBehaviour
             _oldPlayerController.SetActive(true);
             _newClothesGO.SetActive(true);
             _newPlayerController.SetActive(true);
+
         }
     }
 }
