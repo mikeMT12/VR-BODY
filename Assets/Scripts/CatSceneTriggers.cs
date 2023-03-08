@@ -5,12 +5,13 @@ using UnityEngine;
 public class CatSceneTriggers : MonoBehaviour
 {
     [SerializeField] private GameObject _camera;
-    [SerializeField] private GameObject _player;
+    public GameObject _player;
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.GetComponent<HandForTriggers>())
         {
-
+            //_camera.gameObject.SetActive(false);
+            _player.GetComponent<Animator>().Play("GetInTHeCar");
         }
     }
     // Start is called before the first frame update
