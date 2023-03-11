@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_13;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;OBI_ONI_SUPPORTED;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_4_13;UNITY_2019_4;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_4_6;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;OBI_ONI_SUPPORTED;OAVA_IGNIS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -391,7 +391,9 @@
     <Compile Include="Assets\Resources\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
     <Compile Include="Assets\Resources\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
     <Compile Include="Assets\Scripts\CatSceneTriggers.cs" />
+    <Compile Include="Assets\Scripts\GameManager1.cs" />
     <Compile Include="Assets\Scripts\GameManagerForTriggers.cs" />
+    <Compile Include="Assets\Scripts\Hand1.cs" />
     <Compile Include="Assets\Scripts\HandForTriggers.cs" />
     <Compile Include="Assets\Scripts\PointForTriggers.cs" />
     <Compile Include="Assets\Scripts\Trevoga.cs" />
@@ -554,6 +556,29 @@
     <Compile Include="Assets\UAssets\BNG Framework\Scripts\Weapons\RaycastWeapon.cs" />
     <Compile Include="Assets\UAssets\BNG Framework\Scripts\Weapons\WeaponSlide.cs" />
     <Compile Include="Assets\UAssets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Compatibility\OAVAShaderCompatibilitySO.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scenes\Demoscripts\MoveNegativeX.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scenes\Demoscripts\TouchedTheFlame.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Additional\FlameLightFlicker.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\FireTrigger.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\FlameCollisionCallbacks.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\FlameEngine.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\IgnisUnityTerrain.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\VegetationStudioProTreeUnMasker.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Engine\WindRetrieve.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\FlammableObject\DebugFlammableShader.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\FlammableObject\DebugFlammableVFXBox.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\FlammableObject\FlameEventInvoker.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\FlammableObject\FlameTriggerCallbacks.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\FlammableObject\FlammableObject.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\Interfaces\IInteractWithFire.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\ParticleExtinguish.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\ParticleIgnite.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\RaycastExtinguish.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\RaycastIgnite.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\SimpleInteractWithFire.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\SphereExtinguish.cs" />
+    <Compile Include="Assets\UAssets\OAVA-Flame\Scripts\Interact\SphereIgnite.cs" />
     <Compile Include="Assets\UAssets\Obi\Samples\Common\SampleResources\Scripts\ActorCOMTransform.cs" />
     <Compile Include="Assets\UAssets\Obi\Samples\Common\SampleResources\Scripts\ActorSpawner.cs" />
     <Compile Include="Assets\UAssets\Obi\Samples\Common\SampleResources\Scripts\AddRandomVelocity.cs" />
@@ -604,6 +629,7 @@
     <Compile Include="Assets\UAssets\Vox\Hands\Runtime\Playables\HandControllerPlayableMixerBehaviour.cs" />
     <Compile Include="Assets\UAssets\Vox\Hands\Runtime\Playables\HandControllerPlayableTrack.cs" />
     <Compile Include="Assets\UAssets\Water\Liquid Particle Systems\Scripts\SmoothCameraOrbit.cs" />
+    <None Include="Assets\UAssets\OAVA-Flame\Demo_presets\StandardRP\HQ_FPS_Weapons_Demo\Instructions.txt" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
     <None Include="Assets\UAssets\BNG Framework\Integrations\PUN\Readme.txt" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\AvatarMaterialStateShader.cginc" />
@@ -618,6 +644,7 @@
     <None Include="Assets\Resources\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\GradientSkybox.shader" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_Mobile_SingleComponent.shader" />
     <None Include="Assets\UAssets\Obi\Resources\ObiMaterials\ObiLightingBuiltIn.cginc" />
+    <None Include="Assets\UAssets\OAVA-Flame\Scenes\READ_THIS_BEFORE_USING.txt" />
     <None Include="Assets\UAssets\BNG Framework\Textures\particleTextures.txt" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\AvatarSurfaceShader.shader" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\Expressive\AvatarEyeLens.shader" />
@@ -634,8 +661,11 @@
     <None Include="Assets\UAssets\Water\Liquid Particle Systems\Simple Particle Scaler\Simple Particle Scaler - Readme.txt" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_PC_SingleComponent.shader" />
     <None Include="Assets\UAssets\Obi\Resources\ObiMaterials\StandardVertexColors.shader" />
+    <None Include="Assets\UAssets\OAVA-Flame\Shaders\Shader documentation.txt" />
+    <None Include="Assets\UAssets\OAVA-Flame\README.txt" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderPBSV2.shader" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_Mobile_CombinedMesh.shader" />
+    <None Include="Assets\UAssets\OAVA-Flame\Sounds\README.txt" />
     <None Include="Assets\UAssets\Obi\Resources\ObiMaterials\SimpleParticleShader.shader" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Core\Video\Resources\Multiview Stereo.shader" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat\OFL.txt" />
@@ -646,12 +676,15 @@
     <None Include="Assets\UAssets\Obi\Resources\ObiMaterials\URP\ParticleShaderURP.shader" />
     <None Include="Assets\UAssets\Obi\Resources\ObiMaterials\URP\SimpleParticleShaderURP.shader" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderSelfOccluding.shader" />
+    <None Include="Assets\UAssets\OAVA-Flame\Compatibility\Vegetation-Studio\Vegetation-Studio-README.txt" />
+    <None Include="Assets\UAssets\OAVA-Flame\ThirdPartyNotices.txt" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Core\HandsInteraction\Shaders\OculusSampleAlphaHandOutline.shader" />
     <None Include="Assets\UAssets\BNG Framework\Integrations\Invector\Instructions.txt" />
     <None Include="Assets\UAssets\BNG Framework\Integrations\FinalIK\Readme.txt" />
     <None Include="Assets\UAssets\BNG Framework\Models\models.txt" />
     <None Include="Assets\UAssets\BNG Framework\Sounds\license.txt" />
     <None Include="Assets\UAssets\BNG Framework\Integrations\SteamVR\Readme.txt" />
+    <None Include="Assets\UAssets\OAVA-Flame\Demo_presets\URP\TVE_Small_Grass\Instructions.txt" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainSmokeShader.shader" />
     <None Include="Assets\UAssets\BNG Framework\Materials\MobileColorShader.shader" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Core\Video\Plugins\Android\Audio360\NOTICE.txt" />
@@ -664,6 +697,7 @@
     <None Include="Assets\Resources\Oculus\Avatar\Samples\CrossPlatform\Readme.txt" />
     <None Include="Assets\Resources\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderPBS.shader" />
     <None Include="Assets\Resources\Oculus\SampleFramework\Core\CustomHands\Materials\Hands_Transparent.shader" />
+    <None Include="Assets\UAssets\OAVA-Flame\VFX\VFX_Parameter_Documentation.txt" />
     <None Include="Assets\UAssets\BNG Framework\Third-Party Notices.txt" />
     <None Include="Assets\UAssets\Obi\Plugins\libOni.bundle\Contents\Resources\CMakeLists.txt" />
     <None Include="Assets\UAssets\BNG Framework\HandPoser\Documentation.txt" />
