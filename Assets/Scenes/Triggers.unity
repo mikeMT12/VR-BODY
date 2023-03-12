@@ -522,7 +522,7 @@ GameObject:
   - component: {fileID: 141952172}
   m_Layer: 0
   m_Name: Sphere (7)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -645,7 +645,7 @@ GameObject:
   - component: {fileID: 153280314}
   m_Layer: 0
   m_Name: Sphere (17)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1101,7 +1101,7 @@ GameObject:
   - component: {fileID: 217235950}
   m_Layer: 0
   m_Name: Sphere (05)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2251,7 +2251,7 @@ GameObject:
   - component: {fileID: 402893065}
   m_Layer: 0
   m_Name: Sphere(12)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2405,7 +2405,7 @@ GameObject:
   - component: {fileID: 409840589}
   m_Layer: 0
   m_Name: Sphere (9)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2624,7 +2624,7 @@ GameObject:
   - component: {fileID: 444798825}
   m_Layer: 0
   m_Name: Sphere (13)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2747,7 +2747,7 @@ GameObject:
   - component: {fileID: 452227965}
   m_Layer: 0
   m_Name: Sphere(4)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2993,7 +2993,7 @@ GameObject:
   - component: {fileID: 456432524}
   m_Layer: 0
   m_Name: Sphere (017)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3242,7 +3242,7 @@ GameObject:
   - component: {fileID: 475468741}
   m_Layer: 0
   m_Name: Sphere(016)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3426,7 +3426,7 @@ GameObject:
   - component: {fileID: 492928651}
   m_Layer: 0
   m_Name: Sphere(18)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4503,7 +4503,7 @@ GameObject:
   - component: {fileID: 571659273}
   m_Layer: 0
   m_Name: Sphere (2)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4626,7 +4626,7 @@ GameObject:
   - component: {fileID: 582262093}
   m_Layer: 0
   m_Name: Sphere (5)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6040,7 +6040,7 @@ GameObject:
   - component: {fileID: 832016498}
   m_Layer: 0
   m_Name: Sphere (6)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6316,7 +6316,7 @@ GameObject:
   - component: {fileID: 930283241}
   m_Layer: 0
   m_Name: Sphere(04)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6471,7 +6471,7 @@ GameObject:
   - component: {fileID: 961447989}
   m_Layer: 0
   m_Name: Sphere (15)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7148,7 +7148,7 @@ GameObject:
   - component: {fileID: 1066988888}
   m_Layer: 0
   m_Name: Sphere(012)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7463,7 +7463,7 @@ GameObject:
   - component: {fileID: 1108235087}
   m_Layer: 0
   m_Name: Sphere (8)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8837,7 +8837,7 @@ GameObject:
   - component: {fileID: 1340320694}
   m_Layer: 0
   m_Name: Sphere (14)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9644,7 +9644,7 @@ GameObject:
   - component: {fileID: 1408487967}
   m_Layer: 0
   m_Name: Sphere (013)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10067,7 +10067,7 @@ GameObject:
   - component: {fileID: 1461809153}
   m_Layer: 0
   m_Name: Sphere (1)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10500,7 +10500,7 @@ GameObject:
   - component: {fileID: 1550635875}
   m_Layer: 0
   m_Name: Sphere (19)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12178,7 +12178,7 @@ GameObject:
   - component: {fileID: 1742189439}
   m_Layer: 0
   m_Name: Sphere
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12486,6 +12486,8 @@ MonoBehaviour:
   - {fileID: 456432522}
   - {fileID: 153280312}
   - {fileID: 1550635873}
+  _leftHand: {fileID: 0}
+  _rightHand: {fileID: 0}
   gameManager: {fileID: 1587715476}
   stage: 0
 --- !u!54 &1751110987
@@ -13198,6 +13200,8 @@ MonoBehaviour:
   - {fileID: 475468739}
   - {fileID: 1970681811}
   - {fileID: 492928650}
+  _leftHand: {fileID: 0}
+  _rightHand: {fileID: 0}
   gameManager: {fileID: 1587715476}
   stage: 0
 --- !u!65 &1841423230
@@ -13268,7 +13272,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1841423226}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.788, y: -0.75, z: -29.569}
+  m_LocalPosition: {x: -11.788, y: -0.813, z: -29.569}
   m_LocalScale: {x: 0.34036297, y: 0.34036297, z: 0.34036297}
   m_Children: []
   m_Father: {fileID: 0}
@@ -13290,7 +13294,7 @@ GameObject:
   - component: {fileID: 1841641318}
   m_Layer: 0
   m_Name: Sphere (3)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13877,7 +13881,7 @@ GameObject:
   - component: {fileID: 1964332696}
   m_Layer: 0
   m_Name: Sphere (10)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14434,7 +14438,7 @@ GameObject:
   - component: {fileID: 2017325560}
   m_Layer: 0
   m_Name: Sphere (11)
-  m_TagString: Untagged
+  m_TagString: TriggerZoneRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
